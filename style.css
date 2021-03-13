@@ -1,0 +1,22 @@
+.travel_div img {
+    width: 100%
+}
+
+.movie_div {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_div i{
+    float: right;
+}
+.list1{
+    margin-bottom: 20px;
+}
+iframe{
+    margin-top: 20px;
+    width: 100%;
+}
